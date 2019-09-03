@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/PWS Rockets V0.1 03-09-2019 Unity.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
